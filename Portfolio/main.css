@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(180, 171, 36, 0.534)
+}
+nav{
+    background-color: rgba(2, 2, 2, 0.986)
+    color: black;
+    opacity:0.5;
+    line-height: 1cm;
+}
+a{
+    text-decoration: black;
+    color: rgba(5, 5, 36, 0.966);
+}
+footer{
+    background-color: rgb(21, 22, 75)
+    color: darkblue;
+}
+footer p{
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
